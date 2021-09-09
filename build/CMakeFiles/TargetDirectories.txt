@@ -1,0 +1,8 @@
+C:/Users/abderrahmen/Desktop/aliret/looks like me/lookLikeMe/Flask web/Nouveau dossier/looklikeme/dlib/build/CMakeFiles/PACKAGE.dir
+C:/Users/abderrahmen/Desktop/aliret/looks like me/lookLikeMe/Flask web/Nouveau dossier/looklikeme/dlib/build/CMakeFiles/INSTALL.dir
+C:/Users/abderrahmen/Desktop/aliret/looks like me/lookLikeMe/Flask web/Nouveau dossier/looklikeme/dlib/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/abderrahmen/Desktop/aliret/looks like me/lookLikeMe/Flask web/Nouveau dossier/looklikeme/dlib/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/abderrahmen/Desktop/aliret/looks like me/lookLikeMe/Flask web/Nouveau dossier/looklikeme/dlib/build/dlib/CMakeFiles/dlib.dir
+C:/Users/abderrahmen/Desktop/aliret/looks like me/lookLikeMe/Flask web/Nouveau dossier/looklikeme/dlib/build/dlib/CMakeFiles/PACKAGE.dir
+C:/Users/abderrahmen/Desktop/aliret/looks like me/lookLikeMe/Flask web/Nouveau dossier/looklikeme/dlib/build/dlib/CMakeFiles/INSTALL.dir
+C:/Users/abderrahmen/Desktop/aliret/looks like me/lookLikeMe/Flask web/Nouveau dossier/looklikeme/dlib/build/dlib/CMakeFiles/ALL_BUILD.dir

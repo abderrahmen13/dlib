@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\tools\python\src\dlib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\tools\python\src\matrix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\tools\python\src\vector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\tools\python\src\svm_c_trainer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\tools\python\src\svm_rank_trainer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\tools\python\src\decision_functions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\tools\python\src\other.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\tools\python\src\basic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\tools\python\src\cca.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\tools\python\src\sequence_segmenter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\tools\python\src\svm_struct.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\tools\python\src\image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\tools\python\src\image2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\tools\python\src\image3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\tools\python\src\image4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\tools\python\src\rectangles.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\tools\python\src\object_detection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\tools\python\src\shape_predictor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\tools\python\src\correlation_tracker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\tools\python\src\face_recognition.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\tools\python\src\cnn_face_detector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\tools\python\src\global_optimization.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\tools\python\src\image_dataset_metadata.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\tools\python\src\numpy_returns.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\tools\python\src\line.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\tools\python\src\gui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\tools\python\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7C91DF99-050A-34F5-9542-82972B57DE2B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

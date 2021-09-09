@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\neon_test_build\CMakeFiles\db95c4b709741a8c7464e7408398e9b5\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6D3AAD98-7B56-3ECC-842B-04F95E8C660C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

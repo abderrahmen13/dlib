@@ -1,0 +1,141 @@
+Determining if the include file sys/types.h exists failed with the following output:
+Change Dir: C:/Users/abderrahmen/Desktop/aliret/looks like me/lookLikeMe/Flask web/Nouveau dossier/looklikeme/dlib/build/temp.win-amd64-3.7/Release/dlib_build/avx_test_build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_4eb19.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.8.2+25e4d540b pour .NET Framework
+Copyright (C) Microsoft Corporation. Tous droits réservés.
+
+  Compilateur d'optimisation Microsoft (R) C/C++ version 19.28.29334 pour x64
+  Copyright (C) Microsoft Corporation. Tous droits réservés.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4eb19.dir\Debug\\" /Fd"cmTC_4eb19.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003: Impossible d'exécuter la tâche exécutable spécifiée "link.exe". System.IO.DirectoryNotFoundException: Impossible de trouver une partie du chemin d'accès 'C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_4eb19.dir\Debug\cmTC_4eb19.tlog'. [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_4eb19.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath) [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_4eb19.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à System.IO.FileSystemEnumerableIterator`1.CommonInit() [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_4eb19.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost) [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_4eb19.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à System.IO.Directory.GetFiles(String path, String searchPattern) [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_4eb19.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à Microsoft.Build.Utilities.TrackedDependencies.ExpandWildcards(ITaskItem[] expand) [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_4eb19.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à Microsoft.Build.Utilities.CanonicalTrackedOutputFiles.InternalConstruct(ITask ownerTask, ITaskItem[] tlogFiles, Boolean constructOutputsFromTLogs) [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_4eb19.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à Microsoft.Build.CPPTasks.TrackedVCToolTask.PostExecuteTool(Int32 exitCode) [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_4eb19.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à Microsoft.Build.CPPTasks.TrackedVCToolTask.ExecuteTool(String pathToTool, String responseFileCommands, String commandLineCommands) [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_4eb19.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à Microsoft.Build.Utilities.ToolTask.Execute() [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_4eb19.vcxproj]
+
+
+
+Determining if the include file stdint.h exists failed with the following output:
+Change Dir: C:/Users/abderrahmen/Desktop/aliret/looks like me/lookLikeMe/Flask web/Nouveau dossier/looklikeme/dlib/build/temp.win-amd64-3.7/Release/dlib_build/avx_test_build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_9d1a5.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.8.2+25e4d540b pour .NET Framework
+Copyright (C) Microsoft Corporation. Tous droits réservés.
+
+  Compilateur d'optimisation Microsoft (R) C/C++ version 19.28.29334 pour x64
+  Copyright (C) Microsoft Corporation. Tous droits réservés.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9d1a5.dir\Debug\\" /Fd"cmTC_9d1a5.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003: Impossible d'exécuter la tâche exécutable spécifiée "link.exe". System.IO.DirectoryNotFoundException: Impossible de trouver une partie du chemin d'accès 'C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_9d1a5.dir\Debug\cmTC_9d1a5.tlog'. [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_9d1a5.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath) [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_9d1a5.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à System.IO.FileSystemEnumerableIterator`1.CommonInit() [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_9d1a5.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost) [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_9d1a5.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à System.IO.Directory.GetFiles(String path, String searchPattern) [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_9d1a5.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à Microsoft.Build.Utilities.TrackedDependencies.ExpandWildcards(ITaskItem[] expand) [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_9d1a5.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à Microsoft.Build.Utilities.CanonicalTrackedOutputFiles.InternalConstruct(ITask ownerTask, ITaskItem[] tlogFiles, Boolean constructOutputsFromTLogs) [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_9d1a5.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à Microsoft.Build.CPPTasks.TrackedVCToolTask.PostExecuteTool(Int32 exitCode) [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_9d1a5.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à Microsoft.Build.CPPTasks.TrackedVCToolTask.ExecuteTool(String pathToTool, String responseFileCommands, String commandLineCommands) [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_9d1a5.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à Microsoft.Build.Utilities.ToolTask.Execute() [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_9d1a5.vcxproj]
+
+
+
+Determining if the include file stddef.h exists failed with the following output:
+Change Dir: C:/Users/abderrahmen/Desktop/aliret/looks like me/lookLikeMe/Flask web/Nouveau dossier/looklikeme/dlib/build/temp.win-amd64-3.7/Release/dlib_build/avx_test_build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_70073.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.8.2+25e4d540b pour .NET Framework
+Copyright (C) Microsoft Corporation. Tous droits réservés.
+
+  Compilateur d'optimisation Microsoft (R) C/C++ version 19.28.29334 pour x64
+  Copyright (C) Microsoft Corporation. Tous droits réservés.
+  CheckIncludeFile.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_70073.dir\Debug\\" /Fd"cmTC_70073.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003: Impossible d'exécuter la tâche exécutable spécifiée "link.exe". System.IO.DirectoryNotFoundException: Impossible de trouver une partie du chemin d'accès 'C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_70073.dir\Debug\cmTC_70073.tlog'. [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_70073.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath) [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_70073.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à System.IO.FileSystemEnumerableIterator`1.CommonInit() [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_70073.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost) [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_70073.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à System.IO.Directory.GetFiles(String path, String searchPattern) [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_70073.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à Microsoft.Build.Utilities.TrackedDependencies.ExpandWildcards(ITaskItem[] expand) [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_70073.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à Microsoft.Build.Utilities.CanonicalTrackedOutputFiles.InternalConstruct(ITask ownerTask, ITaskItem[] tlogFiles, Boolean constructOutputsFromTLogs) [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_70073.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à Microsoft.Build.CPPTasks.TrackedVCToolTask.PostExecuteTool(Int32 exitCode) [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_70073.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à Microsoft.Build.CPPTasks.TrackedVCToolTask.ExecuteTool(String pathToTool, String responseFileCommands, String commandLineCommands) [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_70073.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à Microsoft.Build.Utilities.ToolTask.Execute() [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_70073.vcxproj]
+
+
+
+Determining size of void* failed with the following output:
+Change Dir: C:/Users/abderrahmen/Desktop/aliret/looks like me/lookLikeMe/Flask web/Nouveau dossier/looklikeme/dlib/build/temp.win-amd64-3.7/Release/dlib_build/avx_test_build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_4db2d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.8.2+25e4d540b pour .NET Framework
+Copyright (C) Microsoft Corporation. Tous droits réservés.
+
+  Compilateur d'optimisation Microsoft (R) C/C++ version 19.28.29334 pour x64
+  Copyright (C) Microsoft Corporation. Tous droits réservés.
+  SIZE_OF_VOID_PTR.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4db2d.dir\Debug\\" /Fd"cmTC_4db2d.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CheckTypeSize\SIZE_OF_VOID_PTR.c"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003: Impossible d'exécuter la tâche exécutable spécifiée "link.exe". System.IO.DirectoryNotFoundException: Impossible de trouver une partie du chemin d'accès 'C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_4db2d.dir\Debug\cmTC_4db2d.tlog'. [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_4db2d.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath) [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_4db2d.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à System.IO.FileSystemEnumerableIterator`1.CommonInit() [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_4db2d.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost) [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_4db2d.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à System.IO.Directory.GetFiles(String path, String searchPattern) [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_4db2d.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à Microsoft.Build.Utilities.TrackedDependencies.ExpandWildcards(ITaskItem[] expand) [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_4db2d.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à Microsoft.Build.Utilities.CanonicalTrackedOutputFiles.InternalConstruct(ITask ownerTask, ITaskItem[] tlogFiles, Boolean constructOutputsFromTLogs) [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_4db2d.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à Microsoft.Build.CPPTasks.TrackedVCToolTask.PostExecuteTool(Int32 exitCode) [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_4db2d.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à Microsoft.Build.CPPTasks.TrackedVCToolTask.ExecuteTool(String pathToTool, String responseFileCommands, String commandLineCommands) [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_4db2d.vcxproj]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6003:    à Microsoft.Build.Utilities.ToolTask.Execute() [C:\Users\abderrahmen\Desktop\aliret\looks like me\lookLikeMe\Flask web\Nouveau dossier\looklikeme\dlib\build\temp.win-amd64-3.7\Release\dlib_build\avx_test_build\CMakeFiles\CMakeTmp\cmTC_4db2d.vcxproj]
+
+
+C:/Users/abderrahmen/Desktop/aliret/looks like me/lookLikeMe/Flask web/Nouveau dossier/looklikeme/dlib/build/temp.win-amd64-3.7/Release/dlib_build/avx_test_build/CMakeFiles/CheckTypeSize/SIZE_OF_VOID_PTR.c:
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__PPC64__)
+# define KEY '_','_','P','P','C','6','4','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__PPC__)
+# define KEY '_','_','P','P','C','_','_'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(void*))
+static char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+

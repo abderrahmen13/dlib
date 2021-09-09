@@ -1,0 +1,10 @@
+^C:\USERS\ABDERRAHMEN\DESKTOP\ALIRET\LOOKS LIKE ME\LOOKLIKEME\FLASK WEB\NOUVEAU DOSSIER\LOOKLIKEME\DLIB\BUILD\TEMP.WIN-AMD64-3.7\RELEASE\DLIB_BUILD\SSE4_TEST_BUILD\CMAKEFILES\ABE9D39573A41BE3E1922FC8B156F3C2\GENERATE.STAMP.RULE
+setlocal
+C:\Users\abderrahmen\AppData\Local\Programs\Python\Python37\Lib\site-packages\cmake\data\bin\cmake.exe "-SC:/Users/abderrahmen/Desktop/aliret/looks like me/lookLikeMe/Flask web/Nouveau dossier/looklikeme/dlib/dlib/cmake_utils/test_for_sse4" "-BC:/Users/abderrahmen/Desktop/aliret/looks like me/lookLikeMe/Flask web/Nouveau dossier/looklikeme/dlib/build/temp.win-amd64-3.7/Release/dlib_build/sse4_test_build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/abderrahmen/Desktop/aliret/looks like me/lookLikeMe/Flask web/Nouveau dossier/looklikeme/dlib/build/temp.win-amd64-3.7/Release/dlib_build/sse4_test_build/sse4_test.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

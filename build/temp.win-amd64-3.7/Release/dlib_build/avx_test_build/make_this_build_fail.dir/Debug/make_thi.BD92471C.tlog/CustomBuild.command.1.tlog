@@ -1,0 +1,10 @@
+^C:\USERS\ABDERRAHMEN\DESKTOP\ALIRET\LOOKS LIKE ME\LOOKLIKEME\FLASK WEB\NOUVEAU DOSSIER\LOOKLIKEME\DLIB\DLIB\CMAKE_UTILS\TEST_FOR_AVX\CMAKELISTS.TXT
+setlocal
+C:\Users\abderrahmen\AppData\Local\Programs\Python\Python37\Lib\site-packages\cmake\data\bin\cmake.exe "-SC:/Users/abderrahmen/Desktop/aliret/looks like me/lookLikeMe/Flask web/Nouveau dossier/looklikeme/dlib/dlib/cmake_utils/test_for_avx" "-BC:/Users/abderrahmen/Desktop/aliret/looks like me/lookLikeMe/Flask web/Nouveau dossier/looklikeme/dlib/build/temp.win-amd64-3.7/Release/dlib_build/avx_test_build" --check-stamp-file "C:/Users/abderrahmen/Desktop/aliret/looks like me/lookLikeMe/Flask web/Nouveau dossier/looklikeme/dlib/build/temp.win-amd64-3.7/Release/dlib_build/avx_test_build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+^C:\USERS\ABDERRAHMEN\DESKTOP\ALIRET\LOOKS LIKE ME\LOOKLIKEME\FLASK WEB\NOUVEAU DOSSIER\LOOKLIKEME\DLIB\BUILD\CMAKEFILES\72B2AE6F3C8CC26383FCAB2220DADBFF\GENERATE.STAMP.RULE
+setlocal
+C:\Users\abderrahmen\AppData\Local\Programs\Python\Python37\Lib\site-packages\cmake\data\bin\cmake.exe "-SC:/Users/abderrahmen/Desktop/aliret/looks like me/lookLikeMe/Flask web/Nouveau dossier/looklikeme/dlib" "-BC:/Users/abderrahmen/Desktop/aliret/looks like me/lookLikeMe/Flask web/Nouveau dossier/looklikeme/dlib/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/abderrahmen/Desktop/aliret/looks like me/lookLikeMe/Flask web/Nouveau dossier/looklikeme/dlib/build/dlib_project.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
